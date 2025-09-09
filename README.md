@@ -1,5 +1,4 @@
 # HR Resource Query Chatbot
-
 ## Overview
 The **HR Resource Query Chatbot** is an AI-powered assistant designed to help HR teams quickly find employees based on skills, experience, and past projects. It combines a **retrieval system** with **template-based natural responses** to provide recommendations in a chat interface. Users can query for developers by technology, experience, or project background, and receive structured, actionable information.
 
@@ -43,7 +42,7 @@ The **HR Resource Query Chatbot** is an AI-powered assistant designed to help HR
 ```bash
             
 
-## API Documentation
+API Documentation
 The HR Finder Chatbot backend exposes the following endpoints via **FastAPI**:
 
 ---
@@ -147,5 +146,5 @@ With more time and resources, the following enhancements could be added:
    - Allow HR to **schedule interviews** or get **automated suggestions** for meetings with available candidates.
 
 ## Demo
-Link :http://localhost:8501/
+[your link hear](http://localhost:8501/)
 http://127.0.0.1:8000/docs#/default/employees_search_employees_search_get
