@@ -147,3 +147,6 @@ With more time and resources, the following enhancements could be added:
 
 ## Demo
 <img width="1704" height="4284" alt="Image" src="https://github.com/user-attachments/assets/cdf92acb-a7d6-46c4-8e74-59900fd1511e" />
+
+Streamlit output:
+<img width="1728" height="1418" alt="Image" src="https://github.com/user-attachments/assets/7eb9702e-a9d6-43f0-9da2-1d492c4efcdf" />
