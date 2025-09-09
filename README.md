@@ -146,6 +146,4 @@ With more time and resources, the following enhancements could be added:
    - Allow HR to **schedule interviews** or get **automated suggestions** for meetings with available candidates.
 
 ## Demo
-[your link hear](http://localhost:8501/)
-[your API link](http://127.0.0.1:8000/docs#/default/employees_search_employees_search_get)
 [Image link](<img width="1704" height="4284" alt="Image" src="https://github.com/user-attachments/assets/71d257c4-d1c4-46f2-bec1-9a5fc60b967b" />)
