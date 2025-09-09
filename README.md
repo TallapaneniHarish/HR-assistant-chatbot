@@ -146,4 +146,4 @@ With more time and resources, the following enhancements could be added:
    - Allow HR to **schedule interviews** or get **automated suggestions** for meetings with available candidates.
 
 ## Demo
-![Image link](<img width="1704" height="4284" alt="Image" src="https://github.com/user-attachments/assets/71d257c4-d1c4-46f2-bec1-9a5fc60b967b" />)
+![Image link](<img width="1704" height="4284" alt="Image" src="https://github.com/user-attachments/assets/cdf92acb-a7d6-46c4-8e74-59900fd1511e" />)
