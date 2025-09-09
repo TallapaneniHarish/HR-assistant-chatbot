@@ -1,6 +1,3 @@
-# Install first (run in PyCharm terminal):
-# pip install sentence-transformers faiss-cpu
-
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
@@ -59,3 +56,4 @@ print("🤖 RAG Response:\n")
 for idx in indices[0]:
     emp = employees[idx]
     print(f"⭐ {emp['name']} - {emp['experience']}, worked on {emp['projects']}. Skills: {emp['skills']}.\n")
+
