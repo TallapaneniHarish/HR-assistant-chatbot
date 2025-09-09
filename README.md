@@ -39,10 +39,10 @@ The **HR Resource Query Chatbot** is an AI-powered assistant designed to help HR
 
 ## Setup & Installation
 **1. Clone the repository**
-```bash
+``
             
 
-API Documentation
+##API Documentation
 The HR Finder Chatbot backend exposes the following endpoints via **FastAPI**:
 
 ---
@@ -147,4 +147,4 @@ With more time and resources, the following enhancements could be added:
 
 ## Demo
 [your link hear](http://localhost:8501/)
-http://127.0.0.1:8000/docs#/default/employees_search_employees_search_get
+[your API link](http://127.0.0.1:8000/docs#/default/employees_search_employees_search_get)
